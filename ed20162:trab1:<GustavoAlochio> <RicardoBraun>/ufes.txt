@@ -1,0 +1,12 @@
+UFES
+
+--> Historico de contribuicoes
+Joao c6.txt <<retirada>>
+Joao c7.txt <<retirada>>
+Ana c8.txt <<retirada>>
+
+--> Links
+Fisica fisica.txt
+Artes artes.txt
+
+--> Textos
